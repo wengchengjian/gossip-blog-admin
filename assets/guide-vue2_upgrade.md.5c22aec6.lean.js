@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,d as o}from"./app.d991dbbc.js";const h=JSON.parse('{"title":"版本升级","description":"","frontmatter":{},"headers":[],"relativePath":"guide-vue2/upgrade.md"}'),i={name:"guide-vue2/upgrade.md"},n=o("",7),r=[n];function _(p,c,d,s,l,u){return t(),a("div",null,r)}const g=e(i,[["render",_]]);export{h as __pageData,g as default};

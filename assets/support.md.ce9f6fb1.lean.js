@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,d as r}from"./app.d991dbbc.js";const u=JSON.parse('{"title":"技术支持","description":"","frontmatter":{},"headers":[],"relativePath":"support.md"}'),o={name:"support.md"},s=r("",3),n=[s];function p(_,i,c,l,d,h){return t(),a("div",null,n)}const f=e(o,[["render",p]]);export{u as __pageData,f as default};

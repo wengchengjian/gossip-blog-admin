@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as a,d as o}from"./app.d991dbbc.js";const x=JSON.parse('{"title":"高级 position:fixed","description":"","frontmatter":{},"headers":[],"relativePath":"guide/position-fixed.md"}'),t={name:"guide/position-fixed.md"},n=o("",4),i=[n];function p(c,d,l,r,_,f){return s(),a("div",null,i)}const D=e(t,[["render",p]]);export{x as __pageData,D as default};

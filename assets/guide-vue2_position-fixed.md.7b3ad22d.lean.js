@@ -1,0 +1,1 @@
+import{_ as s,o as e,c as a,d as o}from"./app.d991dbbc.js";const x=JSON.parse('{"title":"高级 position:fixed","description":"","frontmatter":{},"headers":[],"relativePath":"guide-vue2/position-fixed.md"}'),t={name:"guide-vue2/position-fixed.md"},n=o("",4),i=[n];function p(c,d,l,r,_,f){return e(),a("div",null,i)}const u=s(t,[["render",p]]);export{x as __pageData,u as default};

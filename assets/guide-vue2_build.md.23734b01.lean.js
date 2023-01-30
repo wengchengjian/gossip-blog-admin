@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,d as l}from"./app.d991dbbc.js";const u=JSON.parse('{"title":"构建","description":"","frontmatter":{},"headers":[],"relativePath":"guide-vue2/build.md"}'),e={name:"guide-vue2/build.md"},p=l("",4),o=[p];function t(c,r,i,d,y,C){return n(),a("div",null,o)}const A=s(e,[["render",t]]);export{u as __pageData,A as default};

@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,d as l}from"./app.d991dbbc.js";const C=JSON.parse('{"title":"CDN 支持","description":"","frontmatter":{},"headers":[],"relativePath":"guide-vue2/cdn.md"}'),p={name:"guide-vue2/cdn.md"},e=l("",12),o=[e];function c(t,r,i,F,y,d){return a(),n("div",null,o)}const h=s(p,[["render",c]]);export{C as __pageData,h as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,d as s}from"./app.d991dbbc.js";const u=JSON.parse('{"title":"gzip 支持","description":"","frontmatter":{},"headers":[],"relativePath":"guide-vue2/gzip.md"}'),n={name:"guide-vue2/gzip.md"},p=s("",6),i=[p];function o(c,r,_,d,l,g){return a(),t("div",null,i)}const m=e(n,[["render",o]]);export{u as __pageData,m as default};
